@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+
+#slider-1 P {
+  font-size: 20px;
+}
+#slider-1 H2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+}
+#dropdown-menu-2btn-e .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-e .nav .link,
+#dropdown-menu-2btn-e .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-e .navbar,
+#dropdown-menu-2btn-e .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-e .dropdown-menu a:hover,
+#dropdown-menu-2btn-e .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-e .navbar-toggler {
+  color: #000000;
+}
